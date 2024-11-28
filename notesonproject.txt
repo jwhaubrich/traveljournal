@@ -1,0 +1,8 @@
+What I learned:
+1. How to import data from a JavaScript json-like file into the App.jsx component
+2. Using the data that was imported, learned how to use the .map JavaScript function to map over the elements and pass each of them to the Entry.jsx component
+3. The Entry.jsx component takes the data that was passed into it and renders it using jsx
+
+
+.map JavaScript function:
+1. Common practice for mapping over data is to do it inside of the body of the main function. In this case, inside of the 
